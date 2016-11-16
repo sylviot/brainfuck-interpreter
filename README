@@ -1,7 +1,7 @@
 # Brainfuck interpreter
 
-[![Build Status](https://img.shields.io/travis/sylviot/brainfuck.svg?style=flat-square
-"Build Status")](https://travis-ci.org/sylviot/brainfuck)
+[![Build Status](https://img.shields.io/travis/sylviot/brainfuck-interpreter.svg?style=flat-square
+"Build Status")](https://travis-ci.org/sylviot/brainfuck-interpreter)
 
 A simple brain fuck interpreter in javascript
 
