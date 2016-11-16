@@ -30,4 +30,4 @@ A simple brain fuck interpreter in javascript
 bf('++++++++[>++++[>++>+++>+++>+<<<<-]>+>->+>>+[<]<-]>>.>>---.+++++++..+++.', console.log);
 ```
 
-Enjoy :smile:	
+Enjoy :smile:
