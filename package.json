@@ -1,0 +1,14 @@
+{
+  "name": "bfuck",
+  "version": "0.1.0",
+  "description": "brainfuck interpreter",
+  "main": "./src/interpreter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sylvio Tavares <sylvio.tavares@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
